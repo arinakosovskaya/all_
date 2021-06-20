@@ -1,3 +1,5 @@
+Небольшие примеры моего кода:
+
 [Код, проверяющий пароль на необходимые условия](https://github.com/arinakosovskaya/all_/blob/main/Password_quality.ipynb)
 
 [Лабораторная работа 1 по линейной алгебре, с использованием библиотек numpy, scipy, matplotlib](https://github.com/arinakosovskaya/all_/blob/main/Лабораторная%201.ipynb)
